@@ -1,5 +1,4 @@
 {
-  "elements": {
     "alkali_metals": [
     {
       "name": "Hydrogen",
@@ -2056,4 +2055,3 @@
   ]
 
   }
-}
